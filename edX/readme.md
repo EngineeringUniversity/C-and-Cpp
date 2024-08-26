@@ -7,3 +7,6 @@ https://www.edx.org/learn/c-programming
 
 # Specialization:
 https://www.edx.org/certificates/professional-certificate/dartmouth-imtx-c-programming-with-linux
+
+## Course:
+1. https://www.edx.org/learn/c-programming/dartmouth-college-c-programming-getting-started
