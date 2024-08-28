@@ -1,1 +1,2 @@
 - [the TRUTH about C++ (is it worth your time?)](https://youtu.be/q1ZmFc-sqNc)
+- [Should you learn C++?? | Prime Reacts](https://youtu.be/7DCO-IISBnc)
